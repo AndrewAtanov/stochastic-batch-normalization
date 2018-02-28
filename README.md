@@ -28,21 +28,9 @@ To reproduce the resulats follow the `results.ipynb`.
 
 To estimate uncertainty we calculate entropy of predictive distribution on out-of-domain data.
 
-### LeNet-5 on notMNIST
-<p align="center">
-    <img src="plots/lenet-entropy-plot.png" width="500">
-</p>
-
-### ResNet-18 on CIFAR5
-<p align="center">
-    <img src="plots/resnet-entropy-plot.png" width="500">
-</p>
-
-
-### VGG-11 on CIFAR5
-<p align="center">
-    <img src="plots/vgg-entropy-plot.png" width="500">
-</p>
+| __LeNet-5 on notMNIST__ |__ResNet-18 on CIFAR5__|__VGG-11 on CIFAR5__|
+|:--:| :----:|:---:|
+| ![](plots/lenet-entropy-plot.png) | ![](plots/resnet-entropy-plot.png) | ![](plots/vgg-entropy-plot.png)
 
 
 # Citation
