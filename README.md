@@ -8,7 +8,7 @@ In this work, we investigate Batch Normalization technique and propose its proba
 
 ## Launch experiments
 
-To reproduce the resulats follow the `results.ipynb`. 
+To reproduce the results follow the `results.ipynb`. 
 
 ## Accuracy and NLL results
 
